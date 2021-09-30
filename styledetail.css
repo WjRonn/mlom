@@ -1,0 +1,127 @@
+html{
+    height:580%;
+    background-color: #EDEDED;
+}
+
+
+
+header{
+
+    
+    height: 400px;
+    left:0px
+    
+    
+}
+
+.back{
+
+    margin-top: 30px;
+    padding:0px;
+    overflow: hidden;
+    z-index: 30;
+    margin-left: -80px;
+    position: fixed;
+    
+
+}
+
+body{
+    
+    background-image: linear-gradient(to bottom
+    ,#85b7de , #8ba6d2 , #9296c2 , #9685af , #977699);
+    background-repeat: no-repeat;
+    margin: 100px 200px;
+    border-radius: 10px;
+    padding-top: -10px;
+    
+    
+}
+
+.detail{
+
+    text-align: center;
+    margin-top: -10px;
+
+
+}
+
+
+
+.iconsei{
+
+    margin-left: -600px;
+    margin-top: -170px;
+    padding-top: 0px;
+
+}
+
+.eng{
+
+    font-family: 'Avenir Next',sans-serif;
+    padding-top: 100px;
+    margin-left: 450px;
+    font-size: 70px;
+    text-align: left;
+    color: #393939;
+    margin-bottom: -95px;
+
+}
+
+.jp{
+
+    padding-top:0px;
+    margin-left: 450px;
+    text-align: left;
+    font-family: 'klee',sans-serif;
+    color: #393939;
+    font-size: 50px;
+    font-weight: 200;
+
+}
+
+.itsu{
+
+    font-family: 'klee',sans-serif;
+    color: #393939;
+    font-size: 30px;
+    font-weight: 200;
+    margin-top: -160px;
+
+}
+
+
+.tag a{
+
+    color: #EDEDED;
+    background-color: #191919;
+    padding:5px 15px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    font-family: 'klee',sans-serif;
+
+}
+
+.setsumei{
+
+    text-align: left;
+    margin-left: 400px;
+    margin-top: 60px;
+    font-family: 'klee',sans-serif;
+    color: #393939;
+
+}
+
+.netf{
+
+    margin-top: 50px;
+    padding-bottom: 40px;
+
+}
+
+.netf a:hover{
+
+    filter: saturate(0%);
+
+}
